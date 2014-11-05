@@ -1,6 +1,6 @@
 existcheck
 ==========
-Simple library that check if the input already exists in the database.
+Simple library that checks if the input already exists in the database.
 
    $('element').checkexist();
 
