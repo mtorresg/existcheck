@@ -1,0 +1,7 @@
+$myVar = '1px solid black';
+$anotherVar = 'green';
+
+body{
+	border: $myVar;
+	text: $anotherVar;
+}
