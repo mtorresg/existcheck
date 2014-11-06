@@ -1,6 +1,6 @@
 -- ----------------------------------------------------------------------------
 -- MySQL Workbench Migration
--- Migrated Schemata: existcheck1
+-- Migrated Schemata: existcheck
 -- Source Schemata: existcheck
 -- Created: Wed Nov 05 15:06:59 2014
 -- ----------------------------------------------------------------------------
